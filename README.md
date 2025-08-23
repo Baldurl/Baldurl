@@ -11,8 +11,8 @@
 ---
   
 📫Contato profissional e pessoal!  
-  &nbsp;&nbsp;&nbsp;• Linkedin: https://www.linkedin.com/in/jordan-carvalho-b62397228/  
-  &nbsp;&nbsp;&nbsp;• E-mail: jordanvieiracarvalho@hotmail.com
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• Linkedin: https://www.linkedin.com/in/jordan-carvalho-b62397228/  
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• E-mail: jordanvieiracarvalho@hotmail.com
 
 
 
