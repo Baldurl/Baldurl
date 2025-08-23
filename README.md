@@ -1,4 +1,23 @@
-## Hi there 👋
+## Hello there 👋
+
+🔭Eu sou o Jordan... sou um estudante de Análise e Desenvolvimento de Sistemas na UNIP (Universidade Paulista).
+🌱Back-End Engineer
+⚡Foco em PHP | Laravel | SQL | Git | Python | Java | 
+
+---
+
+👯Sempre em busca de colaborações com novos projetos, sejam pequenos ou grandes, fique a vontade para mandar um oi!
+
+---
+
+📫Contato profissional e pessoal!
+    - Linkedin: https://www.linkedin.com/in/jordan-carvalho-b62397228/
+    - E-mail: jordanvieiracarvalho@hotmail.com
+
+
+
+
+
 
 <!--
 **Baldurl/Baldurl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +33,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
