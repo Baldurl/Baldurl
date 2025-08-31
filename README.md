@@ -1,16 +1,15 @@
 ## Hello there 👋
 
-🔭Eu sou o Jordan, estudante de Análise e Desenvolvimento de Sistemas na UNIP (Universidade Paulista).  
-🌱Back-End Engineer!    
-⚡Foco em PHP | Laravel | SQL | Git | Python | Java |   
+🔭I'm Jordan, a Back-End engineer and Web Developer!  
+⚡PhP enjoyer!
   
 ---
   
-👯Sempre em busca de colaborações com novos projetos, sejam pequenos ou grandes, fique a vontade para mandar um oi!  
+👯Always looking for collaborations with new projects, whether small or large, feel free to say hi! 
   
 ---
   
-📫Contato profissional e pessoal!  
+📫Contacts:
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• Linkedin: https://www.linkedin.com/in/jordan-carvalho-b62397228/  
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• E-mail: jordanvieiracarvalho@hotmail.com
 
